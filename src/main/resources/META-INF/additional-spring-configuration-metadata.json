@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "talpa.input",
+      "type": "java.lang.String",
+      "description": "Input data of locations."
+    },
+    {
+      "name": "talpa.output",
+      "type": "java.lang.String",
+      "description": "Output data of results."
+    }
+  ]
+}

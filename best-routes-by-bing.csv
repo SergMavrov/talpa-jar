@@ -1,0 +1,5 @@
+Customer|Store|Depot|Distance|Duration
+C1{Friedrichstraße 133, 40217 Düsseldorf}|Store2{Bilker Allee 128, 40217 Düsseldorf}|Depot1{Metrostrasse 12, 40235 Düsseldorf}|4602.290693607314|4:36
+C2{Fischerstraße 23, 40477 Düsseldorf}|Store2{Bilker Allee 128, 40217 Düsseldorf}|Depot1{Metrostrasse 12, 40235 Düsseldorf}|7301.908326679853|7:18
+C3{Wildenbruchstraße 2, 40545 Düsseldorf}|Store2{Bilker Allee 128, 40217 Düsseldorf}|Depot1{Metrostrasse 12, 40235 Düsseldorf}|7111.107257346752|7:6
+C4{Reisholzer Str. 48, 40231 Düsseldorf}|Store2{Bilker Allee 128, 40217 Düsseldorf}|Depot1{Metrostrasse 12, 40235 Düsseldorf}|8490.062019039948|8:29
